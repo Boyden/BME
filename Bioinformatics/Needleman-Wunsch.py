@@ -1,3 +1,6 @@
+#Needleman-Wunsch alogorithm
+#BLOSUM62 substitution matrix
+#gap: d = 11
 BLOSUM62 = [[9], 
             [-1, 4], 
             [-1, 1, 5], 
