@@ -130,8 +130,6 @@ def sw_solve(dot_matrix, seq_a, seq_b, max_li):
     print(b_li)
     return[a_li, b_li]
 
-seq_a = ["V", "E", "S", "L", "C", "Y"]
-seq_b = ["V", "D", "S", "C", "Y"]
 seq_a = ["G", "E", "S", "L", "C", "K"]
 seq_b = ["L", "D", "S", "C", "H"]
 dot_matrix = amino_seq(seq_a, seq_b)
