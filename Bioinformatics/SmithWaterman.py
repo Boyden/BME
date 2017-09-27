@@ -135,5 +135,3 @@ seq_b = ["L", "D", "S", "C", "H"]
 dot_matrix = amino_seq(seq_a, seq_b)
 max_li = sw_display(dot_matrix)
 sw_solve(dot_matrix, seq_a, seq_b, max_li)
-seq_a = ["G", "E", "S", "L", "C", "K"]
-seq_b = ["L", "D", "S", "C", "H"]
